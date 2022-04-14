@@ -1,3 +1,3 @@
 # CV
 Curriculum vitae
-![embed]https://github.com/oadeniran/CV/blob/main/resume2022.pdf[/embed]
+<embed src="https://github.com/oadeniran/CV/blob/main/resume2022.pdf" type="application/pdf">
