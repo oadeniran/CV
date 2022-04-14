@@ -1,2 +1,2 @@
 # Curriculum Vitae
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/oadeniran/CV/blob/main/resume2022.pdf" width="500" height="375">
+<iframe src="http://docs.google.com/gview?url=https://github.com/oadeniran/CV/blob/main/resume2022.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
