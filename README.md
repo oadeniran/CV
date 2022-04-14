@@ -1,2 +1,2 @@
 # Curriculum Vitae
-[alt image](0001.jpg)
+![jpg](0001.jpg)
