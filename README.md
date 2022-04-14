@@ -1,2 +1,2 @@
 # Curriculum Vitae
-<iframe src="http://docs.google.com/gview?url=https://github.com/oadeniran/CV/blob/main/resume2022.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+[My Portfolio](https://www.freecodecamp.org/certification/fcc91e7eb85-e448-4f31-9ccd-df86c7f0234e/machine-learning-with-python-v7)
